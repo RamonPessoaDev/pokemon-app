@@ -1,5 +1,5 @@
 import axios from "axios";
-import { Pokemon, PokemonDetail, PokemonComment } from "../types/pokemon";
+import { PokemonDetail, PokemonComment } from "../types/pokemon";
 
 const POKE_API = "https://pokeapi.co/api/v2";
 const MOCK_API = "https://6723fb74493fac3cf24cd48c.mockapi.io/api/v1";
